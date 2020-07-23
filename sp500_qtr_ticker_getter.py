@@ -15,6 +15,31 @@ import pandas as pd
 from datetime import datetime, timedelta
 import numpy as np
 
+def main():
+    df = pd.read_csv('sp500_wiki_links.csv')
+    df.QTR_START = pd.to_datetime(df.QTR_START)
+    df.QTR_NAME = df.QTR_START.apply(get_q_num)
+    df.WIKI_LINK.astype(str)
+    for i in df.index:
+        qtr = df.QTR_NAME[i]
+        update = str(df.ACTUAL_DATE[i])
+        data = pd.read_html(df.WIKI_LINK[i])
+        df_table = data[0]
+        keep_columns = ['Symbol', 'Ticker symbol', 'Security', 'Company']
+        columns = [column for column in df_table.columns if column in keep_columns]
+        df_new = df_table[columns]
+        if 'Symbol' in df_new.columns:
+            df_new.rename(columns = {'Symbol':'TICKER'}, inplace = True)
+        elif 'Ticker symbol' in df_new.columns:
+            df_new.rename(columns = {'Ticker symbol':'TICKER'}, inplace = True)
+        elif 'Security' in df_new.columns:
+            df_new.rename(columns = {'Security':'COMPANY'}, inplace = True)
+        elif 'Company' in df_new.columns:
+            df_new.rename(columns = {'Company':'COMPANY'}, inplace = True)
+        df_new.to_csv(f'data/sp500_{qtr}_updated_{update}.csv')
+        print(qtr+' done.')
+    print('Scraping complete.')
+
 def get_q_start(datetime_object):
     current_date = datetime_object
     current_quarter = round((current_date.month - 1) / 3 + 1)
@@ -41,3 +66,5 @@ def get_q_num(datetime_object):
         output = '4Q'+year
     return output
 
+if __name__ == "__main__":
+    main()
