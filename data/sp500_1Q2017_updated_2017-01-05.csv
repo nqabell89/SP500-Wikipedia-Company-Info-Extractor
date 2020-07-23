@@ -1,0 +1,506 @@
+,TICKER,Security
+0,MMM,3M Company
+1,ABT,Abbott Laboratories
+2,ABBV,AbbVie
+3,ACN,Accenture plc
+4,ATVI,Activision Blizzard
+5,AYI,Acuity Brands Inc
+6,ADBE,Adobe Systems Inc
+7,AAP,Advance Auto Parts
+8,AES,AES Corp
+9,AET,Aetna Inc
+10,AMG,Affiliated Managers Group Inc
+11,AFL,AFLAC Inc
+12,A,Agilent Technologies Inc
+13,APD,Air Products & Chemicals Inc
+14,AKAM,Akamai Technologies Inc
+15,ALK,Alaska Air Group Inc
+16,ALB,Albemarle Corp
+17,AGN,"Allergan, Plc"
+18,LNT,Alliant Energy Corp
+19,ALXN,Alexion Pharmaceuticals
+20,ALLE,Allegion
+21,ADS,Alliance Data Systems
+22,ALL,Allstate Corp
+23,GOOGL,Alphabet Inc Class A
+24,GOOG,Alphabet Inc Class C
+25,MO,Altria Group Inc
+26,AMZN,Amazon.com Inc
+27,AEE,Ameren Corp
+28,AAL,American Airlines Group
+29,AEP,American Electric Power
+30,AXP,American Express Co
+31,AIG,"American International Group, Inc."
+32,AMT,American Tower Corp A
+33,AWK,American Water Works Company Inc
+34,AMP,Ameriprise Financial
+35,ABC,AmerisourceBergen Corp
+36,AME,AMETEK Inc
+37,AMGN,Amgen Inc
+38,APH,Amphenol Corp
+39,APC,Anadarko Petroleum Corp
+40,ADI,"Analog Devices, Inc."
+41,ANTM,Anthem Inc.
+42,AON,Aon plc
+43,APA,Apache Corporation
+44,AIV,Apartment Investment & Mgmt
+45,AAPL,Apple Inc.
+46,AMAT,Applied Materials Inc
+47,ADM,Archer-Daniels-Midland Co
+48,ARNC,Arconic Inc
+49,AJG,Arthur J. Gallagher & Co.
+50,AIZ,Assurant Inc
+51,T,AT&T Inc
+52,ADSK,Autodesk Inc
+53,ADP,Automatic Data Processing
+54,AN,AutoNation Inc
+55,AZO,AutoZone Inc
+56,AVB,"AvalonBay Communities, Inc."
+57,AVY,Avery Dennison Corp
+58,BHI,Baker Hughes Inc
+59,BLL,Ball Corp
+60,BAC,Bank of America Corp
+61,BK,The Bank of New York Mellon Corp.
+62,BCR,Bard (C.R.) Inc.
+63,BAX,Baxter International Inc.
+64,BBT,BB&T Corporation
+65,BDX,Becton Dickinson
+66,BBBY,Bed Bath & Beyond
+67,BRK-B,Berkshire Hathaway
+68,BBY,Best Buy Co. Inc.
+69,BIIB,BIOGEN IDEC Inc.
+70,BLK,BlackRock
+71,HRB,Block H&R
+72,BA,Boeing Company
+73,BWA,BorgWarner
+74,BXP,Boston Properties
+75,BSX,Boston Scientific
+76,BMY,Bristol-Myers Squibb
+77,AVGO,Broadcom
+78,BF-B,Brown-Forman Corporation
+79,CHRW,C. H. Robinson Worldwide
+80,CA,"CA, Inc."
+81,COG,Cabot Oil & Gas
+82,CPB,Campbell Soup
+83,COF,Capital One Financial
+84,CAH,Cardinal Health Inc.
+85,HSIC,Henry Schein
+86,KMX,Carmax Inc
+87,CCL,Carnival Corp.
+88,CAT,Caterpillar Inc.
+89,CBG,CBRE Group
+90,CBS,CBS Corp.
+91,CELG,Celgene Corp.
+92,CNC,Centene Corporation
+93,CNP,CenterPoint Energy
+94,CTL,CenturyLink Inc
+95,CERN,Cerner
+96,CF,CF Industries Holdings Inc
+97,SCHW,Charles Schwab Corporation
+98,CHTR,Charter Communications
+99,CHK,Chesapeake Energy
+100,CVX,Chevron Corp.
+101,CMG,Chipotle Mexican Grill
+102,CB,Chubb Limited
+103,CHD,Church & Dwight
+104,CI,CIGNA Corp.
+105,XEC,Cimarex Energy
+106,CINF,Cincinnati Financial
+107,CTAS,Cintas Corporation
+108,CSCO,Cisco Systems
+109,C,Citigroup Inc.
+110,CFG,Citizens Financial Group
+111,CTXS,Citrix Systems
+112,CLX,The Clorox Company
+113,CME,CME Group Inc.
+114,CMS,CMS Energy
+115,COH,Coach Inc.
+116,KO,Coca Cola Company
+117,CTSH,Cognizant Technology Solutions
+118,CL,Colgate-Palmolive
+119,CMCSA,Comcast A Corp
+120,CMA,Comerica Inc.
+121,CAG,ConAgra Foods Inc.
+122,CXO,Concho Resources
+123,COP,ConocoPhillips
+124,ED,Consolidated Edison
+125,STZ,Constellation Brands
+126,GLW,Corning Inc.
+127,COST,Costco Co.
+128,COTY,"Coty, Inc"
+129,CCI,Crown Castle International Corp.
+130,CSRA,CSRA Inc.
+131,CSX,CSX Corp.
+132,CMI,Cummins Inc.
+133,CVS,CVS Health
+134,DHI,D. R. Horton
+135,DHR,Danaher Corp.
+136,DRI,Darden Restaurants
+137,DVA,DaVita Inc.
+138,DE,Deere & Co.
+139,DLPH,Delphi Automotive
+140,DAL,Delta Air Lines
+141,XRAY,Dentsply Sirona
+142,DVN,Devon Energy Corp.
+143,DLR,Digital Realty Trust
+144,DFS,Discover Financial Services
+145,DISCA,Discovery Communications-A
+146,DISCK,Discovery Communications-C
+147,DG,Dollar General
+148,DLTR,Dollar Tree
+149,D,Dominion Resources
+150,DOV,Dover Corp.
+151,DOW,Dow Chemical
+152,DPS,Dr Pepper Snapple Group
+153,DTE,DTE Energy Co.
+154,DD,Du Pont (E.I.)
+155,DUK,Duke Energy
+156,DNB,Dun & Bradstreet
+157,ETFC,E*Trade
+158,EMN,Eastman Chemical
+159,ETN,Eaton Corporation
+160,EBAY,eBay Inc.
+161,ECL,Ecolab Inc.
+162,EIX,Edison Int'l
+163,EW,Edwards Lifesciences
+164,EA,Electronic Arts
+165,EMR,Emerson Electric Company
+166,ENDP,Endo International
+167,ETR,Entergy Corp.
+168,EVHC,Envision Healthcare Corp
+169,EOG,EOG Resources
+170,EQT,EQT Corporation
+171,EFX,Equifax Inc.
+172,EQIX,Equinix
+173,EQR,Equity Residential
+174,ESS,"Essex Property Trust, Inc."
+175,EL,Estee Lauder Cos.
+176,ES,Eversource Energy
+177,EXC,Exelon Corp.
+178,EXPE,Expedia Inc.
+179,EXPD,Expeditors Int'l
+180,ESRX,Express Scripts
+181,EXR,Extra Space Storage
+182,XOM,Exxon Mobil Corp.
+183,FFIV,F5 Networks
+184,FB,Facebook
+185,FAST,Fastenal Co
+186,FRT,Federal Realty Investment Trust
+187,FDX,FedEx Corporation
+188,FIS,Fidelity National Information Services
+189,FITB,Fifth Third Bancorp
+190,FSLR,First Solar Inc
+191,FE,FirstEnergy Corp
+192,FISV,Fiserv Inc
+193,FLIR,FLIR Systems
+194,FLS,Flowserve Corporation
+195,FLR,Fluor Corp.
+196,FMC,FMC Corporation
+197,FTI,FMC Technologies Inc.
+198,FL,Foot Locker Inc
+199,F,Ford Motor
+200,FTV,Fortive Corp
+201,FBHS,Fortune Brands Home & Security
+202,BEN,Franklin Resources
+203,FCX,Freeport-McMoran Cp & Gld
+204,FTR,Frontier Communications
+205,GPS,Gap (The)
+206,GRMN,Garmin Ltd.
+207,GD,General Dynamics
+208,GE,General Electric
+209,GGP,General Growth Properties Inc.
+210,GIS,General Mills
+211,GM,General Motors
+212,GPC,Genuine Parts
+213,GILD,Gilead Sciences
+214,GPN,Global Payments Inc
+215,GS,Goldman Sachs Group
+216,GT,Goodyear Tire & Rubber
+217,GWW,Grainger (W.W.) Inc.
+218,HAL,Halliburton Co.
+219,HBI,Hanesbrands Inc
+220,HOG,Harley-Davidson
+221,HAR,Harman Int'l Industries
+222,HRS,Harris Corporation
+223,HIG,Hartford Financial Svc.Gp.
+224,HAS,Hasbro Inc.
+225,HCA,HCA Holdings
+226,HCP,HCP Inc.
+227,HP,Helmerich & Payne
+228,HES,Hess Corporation
+229,HPE,Hewlett Packard Enterprise
+230,HOLX,Hologic
+231,HD,Home Depot
+232,HON,Honeywell Int'l Inc.
+233,HRL,Hormel Foods Corp.
+234,HST,Host Hotels & Resorts
+235,HPQ,HP Inc.
+236,HUM,Humana Inc.
+237,HBAN,Huntington Bancshares
+238,IDXX,IDEXX Laboratories
+239,ITW,Illinois Tool Works
+240,ILMN,Illumina Inc
+241,IR,Ingersoll-Rand PLC
+242,INTC,Intel Corp.
+243,ICE,Intercontinental Exchange
+244,IBM,International Business Machines
+245,IP,International Paper
+246,IPG,Interpublic Group
+247,IFF,Intl Flavors & Fragrances
+248,INTU,Intuit Inc.
+249,ISRG,Intuitive Surgical Inc.
+250,IVZ,Invesco Ltd.
+251,IRM,Iron Mountain Incorporated
+252,JEC,Jacobs Engineering Group
+253,JBHT,J. B. Hunt Transport Services
+254,SJM,JM Smucker
+255,JNJ,Johnson & Johnson
+256,JCI,Johnson Controls International
+257,JPM,JPMorgan Chase & Co.
+258,JNPR,Juniper Networks
+259,KSU,Kansas City Southern
+260,K,Kellogg Co.
+261,KEY,KeyCorp
+262,KMB,Kimberly-Clark
+263,KIM,Kimco Realty
+264,KMI,Kinder Morgan
+265,KLAC,KLA-Tencor Corp.
+266,KSS,Kohl's Corp.
+267,KHC,Kraft Heinz Co
+268,KR,Kroger Co.
+269,LB,L Brands Inc.
+270,LLL,L-3 Communications Holdings
+271,LH,Laboratory Corp. of America Holding
+272,LRCX,Lam Research
+273,LEG,Leggett & Platt
+274,LEN,Lennar Corp.
+275,LVLT,Level 3 Communications
+276,LUK,Leucadia National Corp.
+277,LLY,Lilly (Eli) & Co.
+278,LNC,Lincoln National
+279,LLTC,Linear Technology Corp.
+280,LKQ,LKQ Corporation
+281,LMT,Lockheed Martin Corp.
+282,L,Loews Corp.
+283,LOW,Lowe's Cos.
+284,LYB,LyondellBasell
+285,MAA,Mid-America Apartments
+286,MTB,M&T Bank Corp.
+287,MAC,Macerich
+288,M,Macy's Inc.
+289,MNK,Mallinckrodt Plc
+290,MRO,Marathon Oil Corp.
+291,MPC,Marathon Petroleum
+292,MAR,Marriott Int'l.
+293,MMC,Marsh & McLennan
+294,MLM,Martin Marietta Materials
+295,MAS,Masco Corp.
+296,MA,Mastercard Inc.
+297,MAT,Mattel Inc.
+298,MKC,McCormick & Co.
+299,MCD,McDonald's Corp.
+300,MCK,McKesson Corp.
+301,MJN,Mead Johnson
+302,MDT,Medtronic plc
+303,MRK,Merck & Co.
+304,MET,MetLife Inc.
+305,MTD,Mettler Toledo
+306,KORS,Michael Kors Holdings
+307,MCHP,Microchip Technology
+308,MU,Micron Technology
+309,MSFT,Microsoft Corp.
+310,MHK,Mohawk Industries
+311,TAP,Molson Coors Brewing Company
+312,MDLZ,Mondelez International
+313,MON,Monsanto Co.
+314,MNST,Monster Beverage
+315,MCO,Moody's Corp
+316,MS,Morgan Stanley
+317,MOS,The Mosaic Company
+318,MSI,Motorola Solutions Inc.
+319,MUR,Murphy Oil
+320,MYL,Mylan N.V.
+321,NDAQ,NASDAQ OMX Group
+322,NOV,National Oilwell Varco Inc.
+323,NAVI,Navient
+324,NTAP,NetApp
+325,NFLX,Netflix Inc.
+326,NWL,Newell Brands
+327,NFX,Newfield Exploration Co
+328,NEM,Newmont Mining Corp. (Hldg. Co.)
+329,NWSA,News Corp. Class A
+330,NWS,News Corp. Class B
+331,NEE,NextEra Energy
+332,NLSN,Nielsen Holdings
+333,NKE,Nike
+334,NI,NiSource Inc.
+335,NBL,Noble Energy Inc
+336,JWN,Nordstrom
+337,NSC,Norfolk Southern Corp.
+338,NTRS,Northern Trust Corp.
+339,NOC,Northrop Grumman Corp.
+340,NRG,NRG Energy
+341,NUE,Nucor Corp.
+342,NVDA,Nvidia Corporation
+343,ORLY,O'Reilly Automotive
+344,OXY,Occidental Petroleum
+345,OMC,Omnicom Group
+346,OKE,ONEOK
+347,ORCL,Oracle Corp.
+348,PCAR,PACCAR Inc.
+349,PH,Parker-Hannifin
+350,PDCO,Patterson Companies
+351,PAYX,Paychex Inc.
+352,PYPL,PayPal
+353,PNR,Pentair Ltd.
+354,PBCT,People's United Financial
+355,PEP,PepsiCo Inc.
+356,PKI,PerkinElmer
+357,PRGO,Perrigo
+358,PFE,Pfizer Inc.
+359,PCG,PG&E Corp.
+360,PM,Philip Morris International
+361,PSX,Phillips 66
+362,PNW,Pinnacle West Capital
+363,PXD,Pioneer Natural Resources
+364,PBI,Pitney-Bowes
+365,PNC,PNC Financial Services
+366,RL,Polo Ralph Lauren Corp.
+367,PPG,PPG Industries
+368,PPL,PPL Corp.
+369,PX,Praxair Inc.
+370,PCLN,Priceline.com Inc
+371,PFG,Principal Financial Group
+372,PG,Procter & Gamble
+373,PGR,Progressive Corp.
+374,PLD,Prologis
+375,PRU,Prudential Financial
+376,PEG,Public Serv. Enterprise Inc.
+377,PSA,Public Storage
+378,PHM,Pulte Homes Inc.
+379,PVH,PVH Corp.
+380,QRVO,Qorvo
+381,PWR,Quanta Services Inc.
+382,QCOM,QUALCOMM Inc.
+383,DGX,Quest Diagnostics
+384,RRC,Range Resources Corp.
+385,RTN,Raytheon Co.
+386,O,Realty Income Corporation
+387,RHT,Red Hat Inc.
+388,REGN,Regeneron
+389,RF,Regions Financial Corp.
+390,RSG,Republic Services Inc
+391,RAI,Reynolds American Inc.
+392,RHI,Robert Half International
+393,ROK,Rockwell Automation Inc.
+394,COL,Rockwell Collins
+395,ROP,Roper Industries
+396,ROST,Ross Stores
+397,RCL,Royal Caribbean Cruises Ltd
+398,R,Ryder System
+399,CRM,Salesforce.com
+400,SCG,SCANA Corp
+401,SLB,Schlumberger Ltd.
+402,SNI,Scripps Networks Interactive Inc.
+403,STX,Seagate Technology
+404,SEE,Sealed Air
+405,SRE,Sempra Energy
+406,SHW,Sherwin-Williams
+407,SIG,Signet Jewelers
+408,SPG,Simon Property Group Inc
+409,SWKS,Skyworks Solutions
+410,SLG,SL Green Realty
+411,SNA,Snap-On Inc.
+412,SO,Southern Co.
+413,LUV,Southwest Airlines
+414,SWN,Southwestern Energy
+415,SE,Spectra Energy Corp.
+416,SPGI,"S&P Global, Inc."
+417,SWK,Stanley Black & Decker
+418,SPLS,Staples Inc.
+419,SBUX,Starbucks Corp.
+420,STT,State Street Corp.
+421,SRCL,Stericycle Inc
+422,SYK,Stryker Corp.
+423,STI,SunTrust Banks
+424,SYMC,Symantec Corp.
+425,SYF,Synchrony Financial
+426,SYY,Sysco Corp.
+427,TROW,T. Rowe Price Group
+428,TGT,Target Corp.
+429,TEL,TE Connectivity Ltd.
+430,TGNA,"Tegna, Inc."
+431,TDC,Teradata Corp.
+432,TSO,Tesoro Petroleum Co.
+433,TXN,Texas Instruments
+434,TXT,Textron Inc.
+435,COO,The Cooper Companies
+436,HSY,The Hershey Company
+437,TRV,The Travelers Companies Inc.
+438,TMO,Thermo Fisher Scientific
+439,TIF,Tiffany & Co.
+440,TWX,Time Warner Inc.
+441,TJX,TJX Companies Inc.
+442,TMK,Torchmark Corp.
+443,TSS,Total System Services
+444,TSCO,Tractor Supply Company
+445,TDG,TransDigm Group
+446,RIG,Transocean
+447,TRIP,TripAdvisor
+448,FOXA,Twenty-First Century Fox Class A
+449,FOX,Twenty-First Century Fox Class B
+450,TSN,Tyson Foods
+451,UDR,UDR Inc
+452,ULTA,Ulta Salon Cosmetics & Fragrance Inc
+453,USB,U.S. Bancorp
+454,UA,Under Armour
+455,UAA,Under Armour
+456,UNP,Union Pacific
+457,UAL,United Continental Holdings
+458,UNH,United Health Group Inc.
+459,UPS,United Parcel Service
+460,URI,"United Rentals, Inc."
+461,UTX,United Technologies
+462,UHS,"Universal Health Services, Inc."
+463,UNM,Unum Group
+464,URBN,Urban Outfitters
+465,VFC,V.F. Corp.
+466,VLO,Valero Energy
+467,VAR,Varian Medical Systems
+468,VTR,Ventas Inc
+469,VRSN,Verisign Inc.
+470,VRSK,Verisk Analytics
+471,VZ,Verizon Communications
+472,VRTX,Vertex Pharmaceuticals Inc
+473,VIAB,Viacom Inc.
+474,V,Visa Inc.
+475,VNO,Vornado Realty Trust
+476,VMC,Vulcan Materials
+477,WMT,Wal-Mart Stores
+478,WBA,Walgreens Boots Alliance
+479,DIS,The Walt Disney Company
+480,WM,Waste Management Inc.
+481,WAT,Waters Corporation
+482,WEC,Wec Energy Group Inc
+483,WFC,Wells Fargo
+484,HCN,Welltower Inc.
+485,WDC,Western Digital
+486,WU,Western Union Co
+487,WRK,WestRock Company
+488,WY,Weyerhaeuser Corp.
+489,WHR,Whirlpool Corp.
+490,WFM,Whole Foods Market
+491,WMB,Williams Cos.
+492,WLTW,Willis Towers Watson
+493,WYN,Wyndham Worldwide
+494,WYNN,Wynn Resorts Ltd
+495,XEL,Xcel Energy Inc
+496,XRX,Xerox Corp.
+497,XLNX,Xilinx Inc
+498,XL,XL Capital
+499,XYL,Xylem Inc.
+500,YHOO,Yahoo Inc.
+501,YUM,Yum! Brands Inc
+502,ZBH,Zimmer Biomet Holdings
+503,ZION,Zions Bancorp
+504,ZTS,Zoetis
